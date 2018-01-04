@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-11-08T11:00:00+08:00</updated><entry><title>計算機程式第八週考試</title><link href="./40623124-w8.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-11-08:./40623124-w8.html</id><summary type="html">&lt;p&gt;https://youtu.be/nr-VaNuckJw&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://40623124.github.io/w16/blog/" rel="alternate"></link><link href="https://40623124.github.io/w16/blog/feeds/course.atom.xml" rel="self"></link><id>https://40623124.github.io/w16/blog/</id><updated>2017-11-08T11:00:00+08:00</updated><entry><title>計算機程式第八週考試</title><link href="https://40623124.github.io/w16/blog/40623124-w8.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-11-08:/w16/blog/40623124-w8.html</id><summary type="html">&lt;p&gt;https://youtu.be/nr-VaNuckJw&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nr-VaNuckJw" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </summary><content type="html">&lt;p&gt;https://youtu.be/nr-VaNuckJw&lt;/p&gt;
@@ -8,7 +8,7 @@
 
 
 &lt;h3&gt;期中自評成績&lt;/h3&gt;
-&lt;h3&gt;85&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第九週簡報解說</title><link href="./40623124-w9.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-11-08:./40623124-w9.html</id><summary type="html">&lt;p&gt;https://youtu.be/rzmRFjQD84A&lt;/p&gt;
+&lt;h3&gt;85&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第九週簡報解說</title><link href="https://40623124.github.io/w16/blog/40623124-w9.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-11-08:/w16/blog/40623124-w9.html</id><summary type="html">&lt;p&gt;https://youtu.be/rzmRFjQD84A&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rzmRFjQD84A" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </summary><content type="html">&lt;p&gt;https://youtu.be/rzmRFjQD84A&lt;/p&gt;
@@ -17,7 +17,7 @@
 
 
 &lt;h3&gt;期中自評成績&lt;/h3&gt;
-&lt;h3&gt;85&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第七週考試(補)</title><link href="./40623124-w7-RE.html" rel="alternate"></link><published>2017-11-01T11:00:00+08:00</published><updated>2017-11-01T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-11-01:./40623124-w7-RE.html</id><summary type="html">&lt;h3&gt;補交&lt;/h3&gt;
+&lt;h3&gt;85&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第七週考試(補)</title><link href="https://40623124.github.io/w16/blog/40623124-w7-RE.html" rel="alternate"></link><published>2017-11-01T11:00:00+08:00</published><updated>2017-11-01T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-11-01:/w16/blog/40623124-w7-RE.html</id><summary type="html">&lt;h3&gt;補交&lt;/h3&gt;
 &lt;p&gt;https://youtu.be/e3l2qAWY_oE&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e3l2qAWY_oE" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -28,16 +28,16 @@
 
 
 &lt;h3&gt;期中自評成績&lt;/h3&gt;
-&lt;p&gt;75&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第七週練習</title><link href="./40623124-w7-abc.html" rel="alternate"></link><published>2017-10-27T11:00:00+08:00</published><updated>2017-10-27T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-10-27:./40623124-w7-abc.html</id><summary type="html">&lt;h3&gt;練習2&lt;/h3&gt;
+&lt;p&gt;75&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第七週練習</title><link href="https://40623124.github.io/w16/blog/40623124-w7-abc.html" rel="alternate"></link><published>2017-10-27T11:00:00+08:00</published><updated>2017-10-27T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-10-27:/w16/blog/40623124-w7-abc.html</id><summary type="html">&lt;h3&gt;練習2&lt;/h3&gt;
 </summary><content type="html">&lt;h3&gt;練習2&lt;/h3&gt;
 
 
-&lt;h3&gt;期中自評成績&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="./40623124-w7-exam.html" rel="alternate"></link><published>2017-10-26T11:00:00+08:00</published><updated>2017-10-26T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-10-26:./40623124-w7-exam.html</id><summary type="html">&lt;h3&gt;W7考試&lt;/h3&gt;
+&lt;h3&gt;期中自評成績&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://40623124.github.io/w16/blog/40623124-w7-exam.html" rel="alternate"></link><published>2017-10-26T11:00:00+08:00</published><updated>2017-10-26T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-10-26:/w16/blog/40623124-w7-exam.html</id><summary type="html">&lt;h3&gt;W7考試&lt;/h3&gt;
 </summary><content type="html">&lt;h3&gt;W7考試&lt;/h3&gt;
 
 
 &lt;h3&gt;學習心得&lt;/h3&gt;
-&lt;h3&gt;期中自評成績&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CP 第五週</title><link href="./40623124-2017-fall-cp-w5.html" rel="alternate"></link><published>2017-10-12T11:00:00+08:00</published><updated>2017-10-12T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-10-12:./40623124-2017-fall-cp-w5.html</id><summary type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
+&lt;h3&gt;期中自評成績&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CP 第五週</title><link href="https://40623124.github.io/w16/blog/40623124-2017-fall-cp-w5.html" rel="alternate"></link><published>2017-10-12T11:00:00+08:00</published><updated>2017-10-12T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-10-12:/w16/blog/40623124-2017-fall-cp-w5.html</id><summary type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
 
 
@@ -367,7 +367,7 @@ if __name__ == '__main__':
     calc.show()
     sys.exit(app.exec_())
 
-&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W5"></category><category term="PyQt5"></category></entry><entry><title>網際 Brython 3.3.4 程式執行環境</title><link href="./40623124-brython-editor-334.html" rel="alternate"></link><published>2017-10-03T11:00:00+08:00</published><updated>2017-10-03T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-10-03:./40623124-brython-editor-334.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
+&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W5"></category><category term="PyQt5"></category></entry><entry><title>網際 Brython 3.3.4 程式執行環境</title><link href="https://40623124.github.io/w16/blog/40623124-brython-editor-334.html" rel="alternate"></link><published>2017-10-03T11:00:00+08:00</published><updated>2017-10-03T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-10-03:/w16/blog/40623124-brython-editor-334.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
 
 
@@ -798,7 +798,7 @@ document["tutorial7"].bind("click", tutorial)
 &lt;p&gt;&lt;button id="get"&gt;for1.py&lt;/button&gt;&lt;button id="get_temp1"&gt;temp1.py&lt;/button&gt;&lt;button id="get_ver_and_kw"&gt;ver_and_kw.py&lt;/button&gt;&lt;button id="jansen"&gt;jansen.py&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;&lt;button id="tutorial1"&gt;tutorial1&lt;/button&gt;&lt;button id="tutorial2"&gt;tutorial2&lt;/button&gt;&lt;button id="tutorial3"&gt;tutorial3&lt;/button&gt;&lt;button id="tutorial4"&gt;tutorial4&lt;/button&gt;&lt;button id="tutorial5"&gt;tutorial5&lt;/button&gt;&lt;button id="tutorial6"&gt;tutorial6&lt;/button&gt;&lt;button id="tutorial7"&gt;tutorial7&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;Jansen 多連桿機構尺寸圖:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/jansen_sympy.png" width="800" /&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="cp"></category><category term="brython"></category><category term="w4"></category></entry><entry><title>2017 Fall CP 第二週</title><link href="./40623124-2017-fall-cp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:None,2017-09-20:./40623124-2017-fall-cp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/jansen_sympy.png" width="800" /&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="cp"></category><category term="brython"></category><category term="w4"></category></entry><entry><title>2017 Fall CP 第二週</title><link href="https://40623124.github.io/w16/blog/40623124-2017-fall-cp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:40623124.github.io,2017-09-20:/w16/blog/40623124-2017-fall-cp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 
 

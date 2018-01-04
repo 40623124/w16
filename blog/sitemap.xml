@@ -4,147 +4,147 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2018-01-03T17:29:32-00:00</lastmod>
+<loc>https://40623124.github.io/w16/blog/</loc>
+<lastmod>2018-01-04T09:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2018-01-03T17:29:32-00:00</lastmod>
+<loc>https://40623124.github.io/w16/blog/archives.html</loc>
+<lastmod>2018-01-04T09:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2018-01-03T17:29:32-00:00</lastmod>
+<loc>https://40623124.github.io/w16/blog/tags.html</loc>
+<lastmod>2018-01-04T09:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./categories.html</loc>
-<lastmod>2018-01-03T17:29:32-00:00</lastmod>
+<loc>https://40623124.github.io/w16/blog/categories.html</loc>
+<lastmod>2018-01-04T09:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./pages/about/</loc>
-<lastmod>2018-01-03T17:23:01+08:00</lastmod>
+<loc>https://40623124.github.io/w16/blog/pages/about/</loc>
+<lastmod>2018-01-04T08:40:52+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-w8.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-w8.html</loc>
 <lastmod>2017-11-08T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-w9.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-w9.html</loc>
 <lastmod>2017-11-08T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-w7-RE.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-w7-RE.html</loc>
 <lastmod>2017-11-01T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-w7-abc.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-w7-abc.html</loc>
 <lastmod>2017-10-27T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-w7-exam.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-w7-exam.html</loc>
 <lastmod>2017-10-26T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-2017-fall-cp-w5.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-2017-fall-cp-w5.html</loc>
 <lastmod>2017-10-12T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-brython-editor-334.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-brython-editor-334.html</loc>
 <lastmod>2017-10-03T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40623124-2017-fall-cp-w2.html</loc>
+<loc>https://40623124.github.io/w16/blog/40623124-2017-fall-cp-w2.html</loc>
 <lastmod>2017-09-20T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/course.html</loc>
+<loc>https://40623124.github.io/w16/blog/category/course.html</loc>
 <lastmod>2017-11-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/2017fall.html</loc>
+<loc>https://40623124.github.io/w16/blog/tag/2017fall.html</loc>
 <lastmod>2017-11-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/cp.html</loc>
+<loc>https://40623124.github.io/w16/blog/tag/cp.html</loc>
 <lastmod>2017-11-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/w5.html</loc>
+<loc>https://40623124.github.io/w16/blog/tag/w5.html</loc>
 <lastmod>2017-10-12T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/pyqt5.html</loc>
+<loc>https://40623124.github.io/w16/blog/tag/pyqt5.html</loc>
 <lastmod>2017-10-12T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/brython.html</loc>
+<loc>https://40623124.github.io/w16/blog/tag/brython.html</loc>
 <lastmod>2017-10-03T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/w4.html</loc>
+<loc>https://40623124.github.io/w16/blog/tag/w4.html</loc>
 <lastmod>2017-10-03T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40623124.html</loc>
+<loc>https://40623124.github.io/w16/blog/author/40623124.html</loc>
 <lastmod>2017-11-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

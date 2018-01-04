@@ -49,38 +49,38 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16"><vh>W1-W3</vh>
 <v t="yen.20170108171733.17"><vh>準備與鼓勵</vh></v>
 </v>
-<v t="leo.20171107162709.1" a="E"><vh>Python 與程式設計</vh>
-<v t="leo.20171107162709.2" a="E"><vh>Python 與 C/C++</vh>
+<v t="leo.20171107162709.1"><vh>Python 與程式設計</vh>
+<v t="leo.20171107162709.2"><vh>Python 與 C/C++</vh>
 <v t="leo.20171107162709.3"><vh>程式學習順序</vh></v>
 </v>
-<v t="leo.20171107162709.4" a="E"><vh>如何學好 Python3</vh>
+<v t="leo.20171107162709.4"><vh>如何學好 Python3</vh>
 <v t="leo.20171107162709.5"><vh>Python3 學習</vh></v>
 </v>
-<v t="leo.20171107162709.6" a="E"><vh>如何學習 CAD</vh>
+<v t="leo.20171107162709.6"><vh>如何學習 CAD</vh>
 <v t="leo.20171107162709.7"><vh>CAD 學習</vh></v>
 </v>
-<v t="leo.20171107162709.8" a="E"><vh>MCADP 實習</vh>
+<v t="leo.20171107162709.8"><vh>MCADP 實習</vh>
 <v t="leo.20171107162709.9"><vh>電腦輔助設計實習</vh></v>
 </v>
 </v>
-<v t="leo.20171107171637.1" a="E"><vh>w1-w3</vh>
+<v t="leo.20171107171637.1"><vh>w1-w3</vh>
 <v t="leo.20171107171637.2" a="E"><vh>Python 與 C/C++</vh>
 <v t="leo.20171107171637.3"><vh>程式學習順序</vh></v>
 </v>
 <v t="leo.20171107171637.4" a="E"><vh>如何學好 Python3</vh>
 <v t="leo.20171107171637.5"><vh>Python3 學習</vh></v>
 </v>
-<v t="leo.20171107171637.6" a="E"><vh>如何學習 CAD</vh>
+<v t="leo.20171107171637.6"><vh>如何學習 CAD</vh>
 <v t="leo.20171107171637.7"><vh>CAD 學習</vh></v>
 </v>
 </v>
-<v t="leo.20171107171910.1" a="E"><vh>w4-w6</vh>
+<v t="leo.20171107171910.1"><vh>w4-w6</vh>
 <v t="leo.20171107171910.2" a="E"><vh>Python 與 C/C++</vh>
 <v t="leo.20171107171910.3"><vh>程式學習順序</vh></v>
 </v>
@@ -91,7 +91,7 @@
 <v t="leo.20171107171910.7"><vh>CAD 學習</vh></v>
 </v>
 </v>
-<v t="leo.20170911091459.1" a="E"><vh>w7-w9</vh>
+<v t="leo.20170911091459.1"><vh>w7-w9</vh>
 <v t="leo.20170911091508.1" a="E"><vh>Python 與 C/C++</vh>
 <v t="leo.20170911091508.2"><vh>程式學習順序</vh></v>
 </v>
@@ -102,7 +102,22 @@
 <v t="leo.20170911100148.2"><vh>CAD 學習</vh></v>
 </v>
 </v>
-<v t="leo.20170911093601.1" a="E"><vh>W1 練習</vh>
+<v t="leo.20180104084929.1"><vh>w10-w12</vh>
+<v t="leo.20180104084929.2" a="E"><vh>Python 與 C/C++</vh>
+<v t="leo.20180104084929.3"><vh>程式學習順序</vh></v>
+</v>
+</v>
+<v t="leo.20180104090259.1"><vh>w13-w15</vh>
+<v t="leo.20180104090259.2" a="E"><vh>Python 與 C/C++</vh>
+<v t="leo.20180104090259.3"><vh>程式學習順序</vh></v>
+</v>
+</v>
+<v t="leo.20180104090320.1" a="E"><vh>w16-w18</vh>
+<v t="leo.20180104090320.2" a="E"><vh>Python 與 C/C++</vh>
+<v t="leo.20180104090320.3"><vh>程式學習順序</vh></v>
+</v>
+</v>
+<v t="leo.20170911093601.1"><vh>W1 練習</vh>
 <v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
 <v t="leo.20170911093601.3"><vh>Python 3.6 程式環境</vh></v>
 </v>
@@ -122,7 +137,7 @@
 <v t="leo.20170913104957.2"><vh>SCM 的整體目標</vh></v>
 </v>
 </v>
-<v t="leo.20170911095149.1" a="E"><vh>課程評分</vh>
+<v t="leo.20170911095149.1"><vh>課程評分</vh>
 <v t="leo.20171116162103.1"><vh>筆記</vh></v>
 <v t="leo.20170911095149.2" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.3"><vh>如何評分</vh></v>
@@ -131,10 +146,10 @@
 <v t="leo.20170911095149.5"><vh>如何分組</vh></v>
 </v>
 </v>
-<v t="leo.20170911090052.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20170911090052.1"><vh>快捷鍵</vh>
 <v t="leo.20170911090052.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170108171733.64" a="E"><vh>各式內容引用範例</vh>
+<v t="yen.20170108171733.64"><vh>各式內容引用範例</vh>
 <v t="yen.20170108171733.65" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170108171733.66"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -1013,6 +1028,68 @@ doc['ex4'].bind('click',ex4)
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20180104084929.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104084929.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104084929.3"># W10-W12檢討週
+
+* 利用eric6拉出計算機的粗胚，了解如何設定按鍵尺寸ˋ版面配置ˋ按鍵名稱
+* 將自己隨身系統給客製化
+* 介紹較簡單的語法</t>
+<t tx="leo.20180104090259.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104090259.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104090259.3"># w13-w15專案執行週
+* 各組選出一位組長來建立協同倉儲
+* 介紹推送繳交的指令，例：git pull git push 等重要指令
+* 分配各個組員所要分工的事務</t>
+<t tx="leo.20180104090320.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104090320.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104090320.3"># W16-W18期末考週
+
+* 將fossil的倉儲合併到github的倉儲中 
+* 製作個人簡易計算機以及個人簡報
+* 製作小組計算機以及小組PDF的報告</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
